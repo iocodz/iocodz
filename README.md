@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raulcr98&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+#### I'm a Software Engineer & ICPC-Contestant working in Havana, Cuba.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulcr98&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+##### BIO
 
-<!--
-**raulcr98/raulcr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **JESAM Consulting**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.cpp`
+- 🌍 I'm mostly active within the **JS Community**
+- 🌱 Learning all about **Web 3.0**
+- 💬 Ping me about **algorithms**, **python**, **web development**, **javascript**
+- 📫 Reach me: [twitter.com/iamraul_net](https://twitter.com/iamraul_net)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
