@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer with 5+ years' background passionate about developing user-friendly software applications.
+#### I'm a Full-Stack Developer with 6+ years of experience in software development. Specialized in the React stack. Passionate about developing user-friendly software applications and solving complex problems. Skilled in communication and dedicated to delivering high-quality results. Excited to contribute my expertise to a dynamic team and drive innovation.
+
 
 ##### About me:
 
